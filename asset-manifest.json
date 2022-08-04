@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/english-companion/static/css/main.4b2590e5.css",
+    "main.js": "/english-companion/static/js/main.9d55b9d2.js",
+    "vendors.js": "/english-companion/static/js/vendors.df809fc7.js",
+    "index.html": "/english-companion/index.html",
+    "main.4b2590e5.css.map": "/english-companion/static/css/main.4b2590e5.css.map",
+    "main.9d55b9d2.js.map": "/english-companion/static/js/main.9d55b9d2.js.map",
+    "vendors.df809fc7.js.map": "/english-companion/static/js/vendors.df809fc7.js.map"
+  },
+  "entrypoints": [
+    "static/js/vendors.df809fc7.js",
+    "static/css/main.4b2590e5.css",
+    "static/js/main.9d55b9d2.js"
+  ]
+}
